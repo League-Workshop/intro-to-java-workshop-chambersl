@@ -5,6 +5,8 @@ import java.util.Random;
 public class AwesomeOrNot {
 
 	// 1. Make a main method that includes all the steps below…
+public static void main(String[] args) {}
+	
 
 	// 2. Make a variable that will hold a random number and put a random number into this variable using "new Random().nextInt(4)"
 
@@ -26,8 +28,7 @@ public class AwesomeOrNot {
 
 	// 8. If the random number is 3
 
-	// -- write your own answer
-
+	// -- write your own answer      
 }
 
 
